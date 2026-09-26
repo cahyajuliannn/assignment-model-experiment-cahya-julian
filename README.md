@@ -83,6 +83,7 @@ Pada eksperimen ini, kedua pendekatan setara sempurna sehingga belum ada perbeda
 ### Biaya
 - **Model Klasik**: gratis setelah training, hanya biaya komputasi lokal.
 - **LLM API**: biaya per token/request, membesar linier seiring volume data yang diproses.
+![Grafik Biaya Usage Groq](documentation/usage-groq.png)
 
 ### Keterbatasan Masing-Masing
 
