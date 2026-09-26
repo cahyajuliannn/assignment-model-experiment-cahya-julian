@@ -1,0 +1,7 @@
+pandas
+numpy
+ipykernel
+scikit-learn
+google-genai
+python-dotenv
+groq
