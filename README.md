@@ -81,7 +81,7 @@ Pada eksperimen ini, kedua pendekatan setara sempurna sehingga belum ada perbeda
 - **LLM API**: setiap prediksi butuh 1 request ke server eksternal, jauh lebih lambat untuk data dalam volume besar, dan rentan terhadap rate limit.
 
 ### Biaya
-- **Model Klasik**: gratis setelah training, hanya biaya komputasi lokal.
+- **Model Klasik**: gratis, hanya mengandalkan skill engineer.
 - **LLM API**: biaya per token/request, membesar linier seiring volume data yang diproses.
 ![Grafik Biaya Usage Groq](documentation/usage-groq.png)
 
